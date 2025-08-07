@@ -1,5 +1,7 @@
 # CS361_Microservice
 
+![Image 8-6-25 at 10 04 PM](https://github.com/user-attachments/assets/0de4abfc-864f-4b8a-802a-11b0191e380a)
+
 How to REQUEST data
 Create register_input.txt with this format:
 action: register
